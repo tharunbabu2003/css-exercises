@@ -70,3 +70,10 @@ ul {
   align-items: center;
   justify-content: flex-end;
 }
+.bar
+{
+  height: 20px;
+  flex: 1;
+  border-radius: 4px;
+  background:rgb(223, 150, 233);
+}
